@@ -3,5 +3,5 @@ steps:
     path: .
     config:
       exposed:
-        - 3000/http
+        - 3000/tcp
 artifacts: []
