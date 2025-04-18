@@ -1,6 +1,6 @@
 # Polyglot
 
-KeqingMoe 是多语言使用者。在与 Phrinky 交流 Python 后，KeqingMoe 决定让 Python 和 JavaScript 杂交。
+KeqingMoe 是多语言使用者。在与 Phrinky 交流 Python 后，KeqingMoe 决定让 Python 和 JavaScript 杂交。关注 KeqingMoe 谢谢喵。
 
 ## 要求
 
